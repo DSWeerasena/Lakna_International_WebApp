@@ -4,8 +4,8 @@ const router = Router();
 
 // Mock Warehouse Data
 let MOCK_WAREHOUSES = [
-  { id: 1, name: 'Main Colombo Warehouse', location: 'Colombo 10', capacity: 5000 },
-  { id: 2, name: 'Western Province Hub', location: 'Gampaha', capacity: 3500 },
+  { id: 1, name: 'Main Nugegoda Warehouse', location: 'Colombo', capacity: 5000 },
+  { id: 2, name: 'Western Province Hub', location: 'Kohuwala', capacity: 3500 },
   { id: 3, name: 'Southern Distribution Point', location: 'Galle', capacity: 2000 }
 ];
 
