@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/9d9fc08e-481a-4f85-8eae-f9365
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+2. Login Access
+   - UserName: admin@lakna.com
+   - Password: password123 
